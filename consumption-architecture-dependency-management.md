@@ -47,4 +47,4 @@ Reference and previous work by BEST WG:
 ![Ecosystem Support](https://github.com/Danajoyluck/openssf-tac/blob/main/files/images/OpenSSF_Practitioner_Framework_Ecosystem_Support.jpg)
 
 ### Frameworks, Specifications, Standards, Education and Training
-![Frameworks, Specifications, Standards, Education and Training]()
+![Frameworks, Specifications, Standards, Education and Training](https://github.com/Danajoyluck/openssf-tac/blob/main/files/images/OpenSSF_Practitioner_Framework_Framework_Specifications_Standards_Education.jpg)
