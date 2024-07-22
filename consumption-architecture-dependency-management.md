@@ -11,11 +11,11 @@ The architecture highlights the technology areas that need contributions to.
 Open source software maintainers, contributors and consumers are the intended audience of this document.
 
 The document answers these questions:
-As an open source software producer, I'd like to adopt open source security technologies to produce more secure open source software. What can OpenSSF provide? 
-As an open source software consumer, I'd like to adopt open source security technologies to consume secure open source software. What can OpenSSF provide? 
-As an open source software producer and consumer, I'd like to contribute to open source security technologies, which projects need contributors? 
+As an open source software producer, I'd like to adopt open source security technologies to produce more secure open source software. What resources does OpenSSF provide? 
+As an open source software consumer, I'd like to adopt open source security technologies to consume secure open source software. What resources OpenSSF provide? 
+As an open source software producer and a consumer, I'd like to contribute to open source security technologies, which OpenSSF projects need contributors? 
 
-# Nomenclature
+## Nomenclature
 The key words “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT”, “SHOULD”, “SHOULD NOT”, “RECOMMENDED”, “MAY”, and “OPTIONAL” in this document are to be interpreted as described in RFC 2119.
 
 # Open Source Software Dependency Management 
