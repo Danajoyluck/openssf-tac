@@ -2,10 +2,11 @@
 
 # Introduction
 ## Context and Scope
-This document captures technologies we produce at the OpenSSF, OSS security tools and frameworks that make these OpenSSF technology possible. The technical stack demonstrates how OSS security technologies make software supply chain more secure. 
+This document captures technologies that are hosted in OpenSSF. The document covers some of the Open Source Software(OSS) security tools and frameworks that make these OpenSSF technologies possible. The technical stack in this document demonstrates how OSS security technologies make software supply chain more secure. 
 
-The goal of this artifact would be to provide an easy model for our end user organizations large and small to have a framework / reference architecture to help them think about adopting OpenSSF technical projects and guidance. 
-The architecture highlights the technology areas that need contributions to.  
+The goals of this document are:
+1. To help open source producers quickly navigate the OSS security technology landscape, discover, adopt and contribute to technical initiitves. 
+2. To provide an easy model for our end user organizations large and small to have a framework/reference architecture to help them think about adopting OpenSSF technical projects and guidance. 
 
 ## Intended Audience
 Open source software maintainers, contributors and consumers are the intended audience of this document.
@@ -19,6 +20,7 @@ As an open source software producer and a consumer, I'd like to contribute to op
 The key words “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT”, “SHOULD”, “SHOULD NOT”, “RECOMMENDED”, “MAY”, and “OPTIONAL” in this document are to be interpreted as described in RFC 2119.
 
 # Open Source Software Dependency Management 
+
 
 Reference and previous work by BEST WG:  
 * [OSS Supply Chain Threats, threats definition](https://github.com/ossf/toolbelt/tree/main/threats). 
